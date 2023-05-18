@@ -1,6 +1,10 @@
 remote_theme: jekyll/minima
+minima:
+  skin: auto
+  social_links:
+  - { platform: youtube,  user_url: "https://www.youtube.com/@baenkli" }
 title: Bänkli
 description: Entspannung
 author:
   name: Bänkli Videos
-  email: info@baenkli.com
+  email: "info@baenkli.com"
